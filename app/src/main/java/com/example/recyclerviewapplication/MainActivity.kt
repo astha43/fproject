@@ -58,7 +58,7 @@ class MainActivity : AppCompatActivity() {
 
         newArrayList = arrayListOf<DataModel>()
 
-        getUserData()
+           getUserData()
     }
 
     private fun getUserData() {
